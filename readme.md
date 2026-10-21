@@ -6,7 +6,6 @@ This project provides an IoT Smart Parking solution to fix this. It uses an ESP8
  
 This status is then instantly sent using the efficient MQTT Protocol to a central server and a Frontend Dashboard. By giving users and operators immediate, accurate visibility of slot availability, the system aims to significantly reduce parking search time and optimize the overall use of the parking area.
 
-
 ### **Table of Contents**
 
 1.  [Project Overview](https://github.com/dendie-sanjaya/iot-parking-lot#1--project-overview)
